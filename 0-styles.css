@@ -25,6 +25,7 @@
   
   header {
     background-color: var(--primary-color);
+    background-image: url("images/headphones_hero_1.jpg");
     color: var(--secondary-color);
     padding: 20px;
   }
